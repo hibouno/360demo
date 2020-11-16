@@ -4,23 +4,23 @@
     <title>Riserveien 16</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
-    <link rel="preload" href="script.js?v=1605534356954" as="script"/>
-	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/r/4/0_0.jpg?v=1605534356954" as="image"/>
-	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/l/4/0_0.jpg?v=1605534356954" as="image"/>
-	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/u/4/0_0.jpg?v=1605534356954" as="image"/>
-	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/d/4/0_0.jpg?v=1605534356954" as="image"/>
-	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/f/4/0_0.jpg?v=1605534356954" as="image"/>
-	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/b/4/0_0.jpg?v=1605534356954" as="image"/>
-	<link rel="preload" href="locale/en.txt?v=1605534356954" as="fetch" crossorigin="anonymous"/>
+    <link rel="preload" href="script.js?v=1605535967101" as="script"/>
+	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/r/4/0_0.jpg?v=1605535967101" as="image"/>
+	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/l/4/0_0.jpg?v=1605535967101" as="image"/>
+	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/u/4/0_0.jpg?v=1605535967101" as="image"/>
+	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/d/4/0_0.jpg?v=1605535967101" as="image"/>
+	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/f/4/0_0.jpg?v=1605535967101" as="image"/>
+	<link rel="preload" href="media/panorama_98C9BF12_88CA_8E7B_41D1_08216AC638B2_0/b/4/0_0.jpg?v=1605535967101" as="image"/>
+	<link rel="preload" href="locale/en.txt?v=1605535967101" as="fetch" crossorigin="anonymous"/>
 	<meta name="description" content="Virtual Tour"/>
 	<meta name="theme-color" content="#FFFFFF"/>
-    <script src="lib/tdvplayer.js?v=1605534356954"></script>
-    <script src="script.js?v=1605534356954"></script>
+    <script src="lib/tdvplayer.js?v=1605535967101"></script>
+    <script src="script.js?v=1605535967101"></script>
     <script type="text/javascript">
         (function()
         {
             var deviceType = TDV.PlayerAPI.mobile ? 'mobile' : 'general';
-            var devicesUrl = {"general":"script_general.js?v=1605534356954","mobile":"script_mobile.js?v=1605534356954"};
+            var devicesUrl = {"general":"script_general.js?v=1605535967101","mobile":"script_mobile.js?v=1605535967101"};
             var url = deviceType in devicesUrl ? devicesUrl[deviceType] : devicesUrl['general'];
             if(typeof url == "object") {
                 var orient = TDV.PlayerAPI.getOrientation();
@@ -45,11 +45,11 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1605534356954');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1605534356954');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1605534356954');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1605535967101');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1605535967101');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1605535967101');
 
-            var devicesUrl = {"general":"script_general.js?v=1605534356954","mobile":"script_mobile.js?v=1605534356954"};
+            var devicesUrl = {"general":"script_general.js?v=1605535967101","mobile":"script_mobile.js?v=1605535967101"};
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
@@ -311,7 +311,7 @@
         #viewer { background-color: rgba(255,255,255,1); z-index:1; position:absolute; width: 100%; height: 100%; top: 0; }
         #preloadContainer { z-index:2; position:relative; width:100%; height:100%; opacity:0; transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
     </style>
-    <link rel="stylesheet" href="fonts.css?v=1605534356954">
+    <link rel="stylesheet" href="fonts.css?v=1605535967101">
 </head>
 <body>
     <div id="preloadContainer"><div style="z-index: 4; position: absolute; background-image: url('loading/HTMLImage_D7142848_C98E_22BF_41CD_B00E7B6515EF.png'); background-size: contain; background-repeat: no-repeat; background-position: center center; overflow: hidden; right: 43.83%; bottom: 49.61%; width: 13.01%; height: 18.99%"></div><div style="z-index: 5; position: absolute; left: 0%; top: 48.08%; width: 100.00%; height: 11.06%"><div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-size:1.67vmin;font-family:Arial, Helvetica, sans-serif;">Laster virtuell visning, vennligst vent</SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-size:1.67vmin;font-family:Arial, Helvetica, sans-serif;">Ønsker du 360 visning av din eiendom?</SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-size:1.67vmin;font-family:Arial, Helvetica, sans-serif;">Kontakt oss på:</SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.3dvista.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#999999;font-size:1.48vmin;"><U>3</U></SPAN></A></SPAN><SPAN STYLE="color:#999999;font-size:1.48vmin;"><U>60eiendom.no</U></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.79vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.48vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.79vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div></div></div>
