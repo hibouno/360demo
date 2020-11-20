@@ -3,6 +3,7 @@
 ## Tour
 
 ### Description
+tour.description = Riserveien 16
 
 ### Title
 tour.name = Riserveien 16
