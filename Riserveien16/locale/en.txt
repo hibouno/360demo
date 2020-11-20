@@ -76,6 +76,6 @@ HotspotPanoramaOverlayArea_D829A194_CBA5_9D68_41E2_4B6BC62BBE0C.toolTip = Til Au
 ## Action
 
 ### URL
-LinkBehaviour_D8BD31E8_CBA5_9CB8_41DC_F963861FF9A7.source = https://www.hibou.no/360eiendom/Aursmoen/index.html?skip-loading
+LinkBehaviour_D8BD31E8_CBA5_9CB8_41DC_F963861FF9A7.source = https://demo.360eiendom.no/Aursmoen/index.html?skip-loading
 LinkBehaviour_DF505F98_C886_0F0A_41E1_2568F757C19A.source = mailto:m.meglersen@360eiendom.no
 PopupWebFrameBehaviour_D154C95E_C986_6553_41B9_407F5F56EF4C.url = https://my.matterport.com/show/?m=9Sh9yWWPGLB
