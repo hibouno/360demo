@@ -60,7 +60,7 @@ HotspotPanoramaOverlayArea_EC0225AB_C882_2DF1_41D2_B927AC581705.toolTip = Riserv
 ## Action
 
 ### URL
-LinkBehaviour_E313C8C8_C89E_23B5_41D6_6B10171B172B.source = https://www.hibou.no/360eiendom/Riserveien16/index.html?skip-loading
+LinkBehaviour_E313C8C8_C89E_23B5_41D6_6B10171B172B.source = https://demo.360eiendom.no/Riserveien16/index.html?skip-loading
 LinkBehaviour_ED780BE5_C982_2571_41E5_B3A736C06D62.source = http://www.loremipsum.com
 LinkBehaviour_ED781BE6_C982_2573_41E0_4F904375D2BF.source = http://www.loremipsum.com
 LinkBehaviour_ED782BE5_C982_2571_41CD_DE94697D39F7.source = http://www.loremipsum.com
