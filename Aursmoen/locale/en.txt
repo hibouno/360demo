@@ -3,6 +3,7 @@
 ## Tour
 
 ### Description
+tour.description = Aursmoen
 
 ### Title
 tour.name = Aursmoen
