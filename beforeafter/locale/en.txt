@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 4
+
+## Media
+
+### Title
+panorama_24B8F2BB_2958_78EA_418A_072D44026A5C.label = R0010191[1]
