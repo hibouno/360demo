@@ -3,9 +3,10 @@
 ## Tour
 
 ### Description
+tour.description = Før og etter av oppussing av bad
 
 ### Title
-tour.name = Untitled 4
+tour.name = Før etter demo
 
 ## Media
 
