@@ -3,9 +3,10 @@
 ## Tour
 
 ### Description
+tour.description = Merry christmas
 
 ### Title
-tour.name = Untitled 5
+tour.name = God jul!
 
 ## Media
 
