@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5
+
+## Media
+
+### Title
+panorama_8D966106_8691_281A_41DA_60CD8653C84E.label = shutterstock_1271979601
