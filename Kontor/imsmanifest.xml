@@ -12,9 +12,9 @@
     </metadata>
     <organizations default="tdv">
         <organization identifier="tdv">
-            <title>Untitled 7</title>
+            <title>Officespace</title>
             <item identifier="i1" identifierref="r1" isvisible="true">
-                <title>Untitled 7</title>
+                <title>Officespace</title>
             </item>
         </organization>
     </organizations>
@@ -23,32 +23,35 @@
 <file href="media/video_8F8C0A13_9FB3_DD57_41D8_FFF0A87AFF6D.mp4"/>
 <file href="media/video_8F90AAE7_9FB4_F2FF_41D8_36699830AF43_poster.jpg"/>
 <file href="media/panorama_94FDD7EF_9F94_72CF_41C0_0651EEDCB33C_hd_t.jpg"/>
-<file href="media/panorama_94FC1A71_9F94_3DD2_41D4_36C599C00B8A_HS_03onvsdt.png"/>
+<file href="media/video_8F90AAE7_9FB4_F2FF_41D8_36699830AF43_t.jpg"/>
 <file href="media/panorama_94E332CE_9F94_6D31_41AA_9145630C08EE_t.jpg"/>
 <file href="media/panorama_94FC3921_9F95_DF73_4144_7E8E76BA6452_hd_t.jpg"/>
 <file href="media/res_9188A269_9F94_EDF3_41D0_9B9A67D346B3_0.png"/>
-<file href="skin/video_play.png"/>
+<file href="media/map_B04C573A_A0ED_F4BD_41D8_53DE98ECB0DB.png"/>
+<file href="tdvquiz.js"/>
 <file href="media/panorama_94FDC140_9F94_2F32_41E1_4D94207FE5E4_hd_t.jpg"/>
 <file href="media/video_8F8C0A13_9FB3_DD57_41D8_FFF0A87AFF6D_t.jpg"/>
 <file href="media/panorama_94FDC140_9F94_2F32_41E1_4D94207FE5E4_t.jpg"/>
-<file href="skin/video_pause.png"/>
+<file href="media/res_B71ADC5F_A0E5_94F3_41E3_DDACECA9D11D_0.png"/>
 <file href="media/res_90933460_9FB4_55F1_41C4_D87D7DEC6ECC_0.jpg"/>
-<file href="media/video_8F90AAE7_9FB4_F2FF_41D8_36699830AF43_t.jpg"/>
 <file href="media/panorama_94E332CE_9F94_6D31_41AA_9145630C08EE_hd_t.jpg"/>
 <file href="media/panorama_94FC57BC_9F94_D351_41D8_E31EB07C557A_hd_t.jpg"/>
 <file href="media/panorama_937B28E0_9F94_5EF1_41C6_B9975ADA1A35_hd_t.jpg"/>
+<file href="media/res_B176D08B_A0FD_8C52_41E3_11D25F070581_0.png"/>
 <file href="media/panorama_94FC1A71_9F94_3DD2_41D4_36C599C00B8A_t.jpg"/>
+<file href="script_general.js"/>
 <file href="index.html"/>
 <file href="media/panorama_94FC41BF_9F95_EF4E_418E_3D7C6A73B28D_hd_t.jpg"/>
-<file href="locale/en.txt"/>
 <file href="media/panorama_94FC41BF_9F95_EF4E_418E_3D7C6A73B28D_t.jpg"/>
 <file href="media/panorama_94FDFFDD_9F94_52D3_41D3_DC29712CDF92_hd_t.jpg"/>
 <file href="media/panorama_94FDFFDD_9F94_52D3_41D3_DC29712CDF92_t.jpg"/>
 <file href="media/res_8FE97570_9FB4_D7D1_41C8_5BC42FF8794A_0.png"/>
 <file href="script.js"/>
-<file href="tdvquiz.js"/>
-<file href="script_general.js"/>
+<file href="skin/video_pause.png"/>
+<file href="locale/en.txt"/>
+<file href="skin/video_play.png"/>
 <file href="media/video_8F90AAE7_9FB4_F2FF_41D8_36699830AF43.mp4"/>
+<file href="media/map_B04C573A_A0ED_F4BD_41D8_53DE98ECB0DB_t.png"/>
 <file href="media/res_90D7E17D_9FB4_EFD2_41B5_821D7AC48B00_0.jpg"/>
 <file href="media/panorama_9539DBFA_9F94_32D1_41D1_AA0CF267260F_HS_rs65ha1k.png"/>
 <file href="media/res_B0190D9A_A074_7751_41D8_6443E9B08939_0.png"/>
@@ -59,33 +62,34 @@
 <file href="media/video_8F8C0A13_9FB3_DD57_41D8_FFF0A87AFF6D_poster.jpg"/>
 <file href="media/panorama_94FC1A71_9F94_3DD2_41D4_36C599C00B8A_hd_t.jpg"/>
 <file href="media/panorama_94FC57BC_9F94_D351_41D8_E31EB07C557A_t.jpg"/>
+<file href="media/map_B04C573A_A0ED_F4BD_41D8_53DE98ECB0DB_lq.png"/>
 <file href="media/panorama_9539DBFA_9F94_32D1_41D1_AA0CF267260F_HS_mvoymfn1.png"/>
 <file href="media/panorama_9539DBFA_9F94_32D1_41D1_AA0CF267260F_hd_t.jpg"/>
 <file href="media/panorama_937B28E0_9F94_5EF1_41C6_B9975ADA1A35_t.jpg"/>
-<file href="lib/cursors/S.cur"/>
-<file href="lib/cursors/grab.cur"/>
-<file href="lib/cursors/N.cur"/>
-<file href="lib/cursors/FW.cur"/>
-<file href="lib/cursors/NW.cur"/>
-<file href="lib/Hls.js"/>
-<file href="lib/WebVRPolyfill.js"/>
-<file href="lib/cursors/FNE.cur"/>
 <file href="lib/cursors/E.cur"/>
-<file href="lib/cursors/FN.cur"/>
 <file href="lib/cursors/FE.cur"/>
-<file href="lib/cursors/SE.cur"/>
-<file href="lib/cursors/NE.cur"/>
-<file href="lib/cursors/W.cur"/>
-<file href="lib/cursors/grabbing.cur"/>
+<file href="lib/cursors/FNE.cur"/>
 <file href="lib/cursors/FS.cur"/>
-<file href="lib/tdvplayer.json"/>
-<file href="lib/cursors/FNW.cur"/>
-<file href="lib/cursors/FSE.cur"/>
 <file href="lib/preload.gif"/>
-<file href="lib/cursors/FSW.cur"/>
-<file href="lib/tdvplayer.js"/>
+<file href="lib/cursors/FW.cur"/>
 <file href="lib/exit.png"/>
+<file href="lib/cursors/FNW.cur"/>
 <file href="lib/cursors/SW.cur"/>
+<file href="lib/cursors/SE.cur"/>
+<file href="lib/cursors/FSE.cur"/>
+<file href="lib/Hls.js"/>
+<file href="lib/cursors/W.cur"/>
+<file href="lib/cursors/grab.cur"/>
+<file href="lib/WebVRPolyfill.js"/>
+<file href="lib/cursors/NE.cur"/>
+<file href="lib/tdvplayer.json"/>
+<file href="lib/cursors/S.cur"/>
+<file href="lib/cursors/FN.cur"/>
+<file href="lib/tdvplayer.js"/>
+<file href="lib/cursors/grabbing.cur"/>
+<file href="lib/cursors/N.cur"/>
+<file href="lib/cursors/NW.cur"/>
+<file href="lib/cursors/FSW.cur"/>
 <file href="media/panorama_94FDC140_9F94_2F32_41E1_4D94207FE5E4_0/r/vr/0.jpg"/>
 <file href="media/panorama_94FDC140_9F94_2F32_41E1_4D94207FE5E4_0/l/vr/0.jpg"/>
 <file href="media/panorama_94FDC140_9F94_2F32_41E1_4D94207FE5E4_0/u/vr/0.jpg"/>
