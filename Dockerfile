@@ -6,4 +6,5 @@ COPY Aursmoen2 /usr/share/nginx/html/Aursmoen2
 COPY beforeafter /usr/share/nginx/html/beforeafter/
 COPY julehilsen  /usr/share/nginx/html/julehilsen/
 COPY skisenter /usr/share/nginx/html/bjorkelangenskisenter/
+COPY Kontor /usr/share/nginx/html/kontor/
 COPY index.html /usr/share/nginx/html/
