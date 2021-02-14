@@ -1,0 +1,56 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 7
+
+## Media
+
+### Title
+panorama_937B28E0_9F94_5EF1_41C6_B9975ADA1A35.label = office_demo_00001
+panorama_94E332CE_9F94_6D31_41AA_9145630C08EE.label = office_demo_00002
+panorama_94FC1A71_9F94_3DD2_41D4_36C599C00B8A.label = office_demo_00003
+panorama_94FC3921_9F95_DF73_4144_7E8E76BA6452.label = office_demo_00005
+panorama_94FC41BF_9F95_EF4E_418E_3D7C6A73B28D.label = office_demo_00004
+panorama_94FC57BC_9F94_D351_41D8_E31EB07C557A.label = office_demo_00009
+panorama_94FDC140_9F94_2F32_41E1_4D94207FE5E4.label = office_demo_00006
+panorama_94FDD7EF_9F94_72CF_41C0_0651EEDCB33C.label = office_demo_00007
+panorama_94FDFFDD_9F94_52D3_41D3_DC29712CDF92.label = office_demo_00008
+panorama_9539DBFA_9F94_32D1_41D1_AA0CF267260F.label = office_demo_00000
+video_8F8C0A13_9FB3_DD57_41D8_FFF0A87AFF6D.label = UgCS 3.4.525 2019-11-06 20-26-02
+video_8F90AAE7_9FB4_F2FF_41D8_36699830AF43.label = vårdager1
+
+## E-Learning
+
+### Answer
+questionOption_B3BE4BA8_A095_D371_4196_3F09094965E5.text = Bra
+questionOption_B3FDF68A_A094_5531_41E1_51F4D1B4A564.text = Dårlig
+
+### Score Name
+score1.label = Score 1
+
+### Question
+question_B34F6A35_A094_3D53_41E2_2CEE5D4DE78E.title = Hvor bra funker dette?
+
+### Question Screen
+quizQuestion_B2DF1E3E_A094_3551_41C7_E97BA49EF407.ok = OK
+
+### Report Screen
+quizScore_B2D94E3E_A094_3551_41E2_2535DB4737ED.completion = Completed
+quizScore_B2D94E3E_A094_3551_41E2_2535DB4737ED.downloadCSV = Download .csv
+quizScore_B2D94E3E_A094_3551_41E2_2535DB4737ED.elapsedTime = Time
+quizScore_B2D94E3E_A094_3551_41E2_2535DB4737ED.items = Items Found
+quizScore_B2D94E3E_A094_3551_41E2_2535DB4737ED.questions = Questions
+quizScore_B2D94E3E_A094_3551_41E2_2535DB4737ED.questionsCorrect = Correct
+quizScore_B2D94E3E_A094_3551_41E2_2535DB4737ED.questionsIncorrect = Incorrect
+quizScore_B2D94E3E_A094_3551_41E2_2535DB4737ED.repeat = Repeat
+quizScore_B2D94E3E_A094_3551_41E2_2535DB4737ED.submitToLMS = Submit
+quizScore_B2D94E3E_A094_3551_41E2_2535DB4737ED.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_B2DE0E3D_A094_3553_41C4_8C4D311E03E9.repeat = Repeat
+quizTimeout_B2DE0E3D_A094_3553_41C4_8C4D311E03E9.score = View Score
+quizTimeout_B2DE0E3D_A094_3553_41C4_8C4D311E03E9.title = - TIMEOUT -
