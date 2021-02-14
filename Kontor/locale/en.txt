@@ -5,11 +5,12 @@
 ### Description
 
 ### Title
-tour.name = Untitled 7
+tour.name = Officespace
 
 ## Media
 
 ### Title
+map_B04C573A_A0ED_F4BD_41D8_53DE98ECB0DB.label = FloorPlan
 panorama_937B28E0_9F94_5EF1_41C6_B9975ADA1A35.label = office_demo_00001
 panorama_94E332CE_9F94_6D31_41AA_9145630C08EE.label = office_demo_00002
 panorama_94FC1A71_9F94_3DD2_41D4_36C599C00B8A.label = office_demo_00003
@@ -23,17 +24,15 @@ panorama_9539DBFA_9F94_32D1_41D1_AA0CF267260F.label = office_demo_00000
 video_8F8C0A13_9FB3_DD57_41D8_FFF0A87AFF6D.label = UgCS 3.4.525 2019-11-06 20-26-02
 video_8F90AAE7_9FB4_F2FF_41D8_36699830AF43.label = vårdager1
 
-## E-Learning
+## Action
 
-### Answer
-questionOption_B3BE4BA8_A095_D371_4196_3F09094965E5.text = Bra
-questionOption_B3FDF68A_A094_5531_41E1_51F4D1B4A564.text = Dårlig
+### URL
+PopupWebFrameBehaviour_B6D53EAF_A0E6_9453_41E2_074AC8B63DA2.url = //www.youtube.com/embed/dQw4w9WgXcQ?v=dQw4w9WgXcQ
+
+## E-Learning
 
 ### Score Name
 score1.label = Score 1
-
-### Question
-question_B34F6A35_A094_3D53_41E2_2CEE5D4DE78E.title = Hvor bra funker dette?
 
 ### Question Screen
 quizQuestion_B2DF1E3E_A094_3551_41C7_E97BA49EF407.ok = OK

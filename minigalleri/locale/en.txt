@@ -1,0 +1,16 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Et lite galleri
+
+### Title
+tour.name = Minigalleri
+
+## Media
+
+### Title
+panorama_AFE04722_A07D_9452_41C4_AD34E085B16E.label = PainterShop0003
+panorama_AFE1D8F6_A07D_FDB2_41D5_2068021E4D57.label = PainterShop0002
+panorama_B1FECA85_A07D_9C57_41C7_14C27F42C4DE.label = PainterShop0001
