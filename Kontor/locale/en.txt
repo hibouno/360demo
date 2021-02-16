@@ -23,6 +23,8 @@ panorama_94FDFFDD_9F94_52D3_41D3_DC29712CDF92.label = office_demo_00008
 panorama_9539DBFA_9F94_32D1_41D1_AA0CF267260F.label = office_demo_00000
 video_8F8C0A13_9FB3_DD57_41D8_FFF0A87AFF6D.label = UgCS 3.4.525 2019-11-06 20-26-02
 video_8F90AAE7_9FB4_F2FF_41D8_36699830AF43.label = vårdager1
+video_A0D6EBF2_AADD_19FA_41AA_CAEA48963B2F.label = Doodly Demo - Embedded Video
+video_A1F14916_AADD_063A_41D6_1B4196A140A2.label = Cartoon Animated Explainer Video Example - Toonly
 
 ## Action
 
