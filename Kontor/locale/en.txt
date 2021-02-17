@@ -21,8 +21,6 @@ panorama_94FDC140_9F94_2F32_41E1_4D94207FE5E4.label = office_demo_00006
 panorama_94FDD7EF_9F94_72CF_41C0_0651EEDCB33C.label = office_demo_00007
 panorama_94FDFFDD_9F94_52D3_41D3_DC29712CDF92.label = office_demo_00008
 panorama_9539DBFA_9F94_32D1_41D1_AA0CF267260F.label = office_demo_00000
-video_B84AA236_AB25_1CA1_41C4_5D55CEE07FCB.label = Toonly
-video_B919B770_AB25_04A3_41DC_00CF6B28B777.label = Doodly
 
 ## Action
 
