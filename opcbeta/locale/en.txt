@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 10
+
+## Media
+
+### Title
+map_B4F75601_B9F8_5675_41E7_22BC5F59788C.label = OPC
+media_B45A37E7_BA38_35BC_41CB_9D8B9789C797.label = opc-beta
+panorama_B3F15005_B9E8_6A7D_41E2_5E9BB9B89678.label = R0010761[1]
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_AB692279_BA38_6E95_41E2_1534EF25618F.toolTip = Lets go!
